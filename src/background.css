@@ -1,0 +1,20 @@
+/* Floating effect */
+@keyframes floatSlow {
+  0%   { transform: translate(-10%, -10%) scale(1); }
+  50%  { transform: translate(10%, 10%) scale(1.05); }
+  100% { transform: translate(-10%, -10%) scale(1); }
+}
+
+@keyframes floatMedium {
+  0%   { transform: translate(5%, -5%) scale(1); }
+  50%  { transform: translate(-5%, 5%) scale(1.05); }
+  100% { transform: translate(5%, -5%) scale(1); }
+}
+
+.animate-float-slow {
+  animation: floatSlow 40s ease-in-out infinite;
+}
+
+.animate-float-medium {
+  animation: floatMedium 60s ease-in-out infinite;
+}
