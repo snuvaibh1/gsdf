@@ -16,7 +16,7 @@ const Header = () => {
           {/* Logo */}
           <div className="flex items-center space-x-2">
             <img
-              src="/AS Logo-07.jpg" // <- make sure this path matches where your file is in /public
+              src="https://i.imgur.com/JNHqgCV.png" // <- make sure this path matches where your file is in /public
               alt="AS Logo"
               className="w-12 h-12 object-contain rounded-full border border-yellow-500/40 shadow-md shadow-yellow-500/30"
             />
