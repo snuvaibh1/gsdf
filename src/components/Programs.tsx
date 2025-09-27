@@ -109,7 +109,7 @@ const Programs = () => {
           >
             <h2 className="text-4xl md:text-6xl font-extrabold tracking-tight mb-6">
               <span className="bg-gradient-to-r from-yellow-400 to-orange-500 bg-clip-text text-transparent">
-                Our Programs
+                What Makes Us Different
               </span>
             </h2>
             <p className="text-base md:text-lg text-gray-300 max-w-2xl mx-auto">
