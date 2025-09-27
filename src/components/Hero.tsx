@@ -150,7 +150,7 @@ const Hero = () => {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               onClick={() =>
-                window.open('https://youtu.be/zoLP2Q0k6dE?si=ynVrRWElYFoa8aHU', '_blank')
+                window.open('https://youtube.com/shorts/n6abFna2keQ?si=CJbOJE_O6u1zp4r3', '_blank')
               }
             >
               <div className="relative w-12 h-12 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center border border-white/20 group-hover:bg-white/20">
